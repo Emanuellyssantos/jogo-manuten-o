@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: sans-serif; 
+    background-color: rgb(18, 5, 61);
+}
+canvas
+{
+    border-radius: 10px;
+    border: 4px solid aliceblue;
+    margin-top: 5vh;
+
+}
